@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! Ankita here.  👋
+Writer by passion and profession. 
 
-<!--
-**techtrailhead/techtrailhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A few pointers about me:
+- 🔭 I’m currently working on Google's DevLibrary. 
+- 🌱 I’m also a Technical Writer by profession selected as a GSoD for Metanorma Project
+- 👯 I’m also a part of the Good Docs Project (a community creating templates for use)
+- 🤔 If you are looking for a tech writer to work on your open-source project, I am the person.
+- 💬 Ask me about anything around products, writing, or marketing!
+- 📫 How to reach me: My website www.yourstrulyankita.com
+- ⚡ Fun fact: I love traveling, trying new cuisines. Calligraphy artist. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😎
