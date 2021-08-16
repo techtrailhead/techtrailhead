@@ -1,6 +1,8 @@
 ### Hello! Ankita here.  👋
 Writer by passion and profession. 
 
+<img src="https://raw.githubusercontent.com/techtrailhead/techtrailhead/master/.png" align="right" width="300px"></img>
+
 A few pointers about me:
 - 🔭 I’m currently working on Google's DevLibrary, also selected as a Tech Writer for GSoD on Metanorma Project.
 - 👯 I’m also a part of the Good Docs Project (a community creating templates for use)
