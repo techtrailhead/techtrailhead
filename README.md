@@ -1,15 +1,36 @@
-### Hello! Ankita here.  👋
-Writer by passion and profession. 
+## Ankita Tripathi here!
 
-<img src="https://raw.githubusercontent.com/techtrailhead/techtrailhead/master/.png" align="right" width="300px"></img>
+[![GitHub techtrailhead](https://img.shields.io/github/followers/vermakhushboo?label=follow&style=social)](https://github.com/techtrailhead)
+[![Linkedin: Ankita Tripathi](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/writer-tripathi/)](https://www.linkedin.com/in/writer-tripathi/)
+[![Twitter: Ankita Tripathi](https://img.shields.io/twitter/follow/ankitatr_?style=social)](https://twitter.com/ankitatr_)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=vermakhushboo&left_color=gray&right_color=blue)
+[![Medium Badge](https://img.shields.io/badge/-@Khushboo%20Verma-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ankitatripathi.2312)](https://medium.com/@ankitatripathi.2312)
+  
+Currently working on anything that excites me!
+Blockchain and Machine Learning top the list. 
+Been a tech writer.
+Learner on the go. 
 
-A few pointers about me:
-- 🔭 I’m currently working on Google's DevLibrary, also selected as a Tech Writer for GSoD on Metanorma Project.
-- 👯 I’m also a part of the Good Docs Project (a community creating templates for use)
-- 🤔 If you are looking for a tech writer to work on your open-source project, feel free to contact me.
 
-- 📫 How to reach me: www.yourstrulyankita.com
-- ⚡ Fun fact: I love traveling, trying new cuisines. Calligraphy artist. 
+[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtrailhead&show_icons=true&theme=dracula)
+)](https://github.com/techtrailhead/github-readme-stats)
 
-😎
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=devlibrary)](https://github.com/techtrailhead/devlibrary)
+
+
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
