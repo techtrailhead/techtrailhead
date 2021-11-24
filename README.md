@@ -17,8 +17,8 @@ Learner on the go. <br>
 
 My top repos: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=devlibrary)](https://github.com/techtrailhead/devlibrary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=metanorma.org)](https://github.com/techtrailhead/metanorma.org)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=devlibrary&theme=radical)](https://github.com/techtrailhead/devlibrary)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=metanorma.org&theme=radical)](https://github.com/techtrailhead/metanorma.org)
 
 
 <!--
