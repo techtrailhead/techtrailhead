@@ -6,10 +6,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitatripathi&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Ankita%20Tripathi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ankitatripathi.2312)](https://medium.com/@ankitatripathi.2312)
   
-Currently working on anything that excites me! <br>
-Blockchain and Machine Learning top the list. <br>
-Been a tech writer. <br>
-Learner on the go. <br>
+Current State: Learning. <br>
+Tech writer. Community Manager. Developer Relations <br>
 
 
 [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtrailhead&show_icons=true&theme=dracula)
