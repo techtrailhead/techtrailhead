@@ -1,35 +1,60 @@
-## Ankita Tripathi here!
+## 👋 Hi, I’m Ankita Tripathi  
 
-[![GitHub techtrailhead](https://img.shields.io/github/followers/techtrailhead?label=follow&style=social)](https://github.com/techtrailhead)
-[![Linkedin: Ankita Tripathi](https://img.shields.io/badge/-Ankita%20Tripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/writer-tripathi/)](https://www.linkedin.com/in/writer-tripathi/)
+[![GitHub Followers](https://img.shields.io/github/followers/techtrailhead?label=Follow&style=social)](https://github.com/techtrailhead)
+[![LinkedIn: Ankita Tripathi](https://img.shields.io/badge/-Ankita%20Tripathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitatripathii/)](https://www.linkedin.com/in/ankitatripathii/)
 [![Twitter: Ankita Tripathi](https://img.shields.io/twitter/follow/ankitatr_?style=social)](https://twitter.com/ankitatr_)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitatripathi&left_color=gray&right_color=blue)
-[![Medium Badge](https://img.shields.io/badge/-@Ankita%20Tripathi-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@ankitatripathi.2312)](https://medium.com/@ankitatripathi.2312)
-  
-Current State: Learning. <br>
-Tech writer. Community Manager. Developer Relations <br>
+[![Medium Badge](https://img.shields.io/badge/-@Ankita%20Tripathi-black?style=flat-square&logo=Medium&link=https://medium.com/@writertripathi)](https://medium.com/@writertripathi)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=techtrailhead)
 
+---
 
-[![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=techtrailhead&show_icons=true&theme=dracula)
-)](https://github.com/techtrailhead/github-readme-stats)
+### 🚀 About Me  
 
-My top repos: 
+I build, write, and teach.  
+Over the past few years, I’ve helped developers learn, build, and grow — through **technical writing**, **developer programs**, and **backend education**.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=devlibrary&theme=tokyonight)](https://github.com/techtrailhead/devlibrary)
+Currently, I’m diving deep into:  
+- **AI systems** — building with **RAGs (Retrieval-Augmented Generation)** and **SLMs (Small Language Models)**  
+- **Research Papers**: Writing Research Papers on MCPs, LoRA Techniques, and more
+- Experimenting with **agentic workflows** and intelligent systems  
+
+I love bridging the gap between **learning** and **building**; whether it’s writing a dev doc, designing a learning path, or spinning up an AI prototype.  
+
+---
+
+### What I’ve Been Up To  
+
+- Building projects around **AI-assisted research and retrieval systems**  
+- Teaching backend and data analytics programs at **BytR / KarmanX**  
+- Writing on technical education, dev careers, and AI adoption  
+- Speaking at events on learning paths, tech writing, and community  
+
+---
+
+### Tech Stack  
+
+**Languages:** JavaScript, Node.js, Python  
+**AI Tools:** LangChain, ChromaDB, Gemini API, OpenAI, n8n  
+**Backend:** Express, FastAPI, REST APIs, Microservices  
+**Other:** Markdown, Git, Google Apps Script  
+
+---
+
+### GitHub Stats  
+
+[![Ankita’s GitHub stats](https://github-readme-stats.vercel.app/api?username=techtrailhead&show_icons=true&theme=radical)](https://github.com/techtrailhead)  
+
+---
+
+### Featured Repositories  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=devlibrary&theme=tokyonight)](https://github.com/techtrailhead/devlibrary)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techtrailhead&repo=metanorma.org&theme=tokyonight)](https://github.com/techtrailhead/metanorma.org)
 
+---
 
-<!--
+### Let’s Connect  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- Ask me about writing technical content, backend learning, or AI workflows.  
+- Reach me on [LinkedIn](https://www.linkedin.com/in/writer-tripathi/) or [Twitter](https://twitter.com/ankitatr_).  
+- **Fun fact:** I can switch between **explaining AI systems** and **writing ad copy** in the same breath.  
